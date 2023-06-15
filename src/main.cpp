@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
 
-#define HOST_API "homeiot.pcbjogja.com"
+#define HOST_API "google.com"
 
 void connectToWiFi();
 bool isReachable(const char *hostname);
